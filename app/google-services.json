@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830969052404",
+    "firebase_url": "https://hbtunoticeboard.firebaseio.com",
+    "project_id": "hbtunoticeboard",
+    "storage_bucket": "hbtunoticeboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830969052404:android:da765bd3136bf9c5",
+        "android_client_info": {
+          "package_name": "com.example.hbtunoticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830969052404-qnc5rl0jbt74t7q2mom8cra7iott9lhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hbtunoticeboard",
+            "certificate_hash": "8782df5512480277934e41b12531c38acab64067"
+          }
+        },
+        {
+          "client_id": "830969052404-28lmjlv53iss8rdk5199hq33g9hlc3m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x1tvagx6Li5n2u3ZrG7P4z86GygWjFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830969052404-28lmjlv53iss8rdk5199hq33g9hlc3m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
